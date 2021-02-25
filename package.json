@@ -1,0 +1,19 @@
+{
+  "name": "excel4node-range-validation",
+  "version": "1.0.0",
+  "description": "excel4node Range Validation example",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "excel4node"
+  ],
+  "author": "Robert Kiss <ert78gb@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "excel4node": "1.7.2"
+  }
+}
